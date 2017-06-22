@@ -36,6 +36,7 @@ public class kruskal{
     
     matrix[i][j] = scan.nextInt();
     
+   
    }
    
   }
