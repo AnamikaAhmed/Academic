@@ -35,6 +35,7 @@ public class LCS{
                     // shoman hole diagonal+1
                     matrix[i][j] = matrix[i-1][j-1]+1;
                     
+               
                 }
                 
                 else if(array1[i]!=(array2[j])){
