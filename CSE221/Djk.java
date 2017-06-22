@@ -32,6 +32,7 @@ public class Djk{
             
             matrix[vertex1][vertex2] += weight;
             
+        
         }
         
         
